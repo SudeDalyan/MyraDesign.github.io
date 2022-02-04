@@ -10338,6 +10338,7 @@ button.bg-dark:focus {
 
 .text-uppercase {
   text-transform: uppercase !important;
+  padding: 15px !important;
 }
 
 .text-capitalize {

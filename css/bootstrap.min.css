@@ -7467,7 +7467,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #43ab92 !important
+    background-color: #aca9f1 !important
 }
 
 a.bg-primary:focus,
@@ -7603,7 +7603,7 @@ button.bg-dark:hover {
 }
 
 .border-primary {
-    border-color: #43ab92 !important
+    border-color: #aca9f1 !important
 }
 
 .border-secondary {
@@ -11442,7 +11442,8 @@ button.bg-dark:hover {
 }
 
 .text-uppercase {
-    text-transform: uppercase !important
+    text-transform: uppercase !important;
+    padding: 15px !important;
 }
 
 .text-capitalize {
@@ -11478,7 +11479,7 @@ button.bg-dark:hover {
 }
 
 .text-primary {
-    color: #43ab92 !important
+    color: #aca9f1 !important
 }
 
 a.text-primary:focus,
