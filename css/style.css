@@ -1268,7 +1268,8 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .ftco-cover-1, .ftco-cover-1 .container > .row {
     height: 100vh;
-    min-height: 600px; }
+    min-height: 600px; 
+}
   .ftco-cover-1 > .container {
     position: relative; }
   .ftco-cover-1.overlay {
@@ -1336,7 +1337,6 @@ h1, h2, h3, h4, h5,
     display: inline-grid;
     float: none;
     margin-bottom: 30px; } }
-
 .blog-entry .blog-thumbnail {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 150px;
